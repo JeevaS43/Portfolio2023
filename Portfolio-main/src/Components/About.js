@@ -17,7 +17,7 @@ const About = () => {
             I have done an internship as a <b>Forensics Analyst</b> at Kerala Police Academy.
             I love to lead my team to create original projects with beautiful design, you can check out some of my work in the projects section.<br/><br/>
             I am <b>open</b> to new collaborations or work where I can contribute and grow. Feel free to connect with me, links are in the footer.<br/>
-            Apart from Cyber Security I love Gaming, you can check out me here <a href="https://www.linkedin.com/in/jeeva-s-039a11226/" target='_blank'>Linkedin.</a>
+            Apart from   Security I love Gaming, you can check out me here <a href="https://www.linkedin.com/in/jeeva-s-039a11226/" target='_blank'>Linkedin.</a>
           </p>
         </div>
 
